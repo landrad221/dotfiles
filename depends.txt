@@ -1,0 +1,1 @@
+neovim polybar dunst rofi sxhkd bspwm feh lxpolkit picom curl xsetroot codium

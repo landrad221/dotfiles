@@ -1,0 +1,4 @@
+2025-05-20T18:34:58 exception: Failed to open "/home/landrad221/.mpd/mpdstate": No such file or directory
+2025-05-20T18:34:58 exception: Failed to access /home/landrad221/Music: No such file or directory
+2025-05-20T18:47:29 exception: Failed to commit /home/landrad221/.mpd/mpdstate: File exists
+2025-05-20T18:47:29 exception: Failed to commit /home/landrad221/.mpd/mpdstate: File exists
